@@ -38,11 +38,11 @@ Product engineering across interfaces, data, infrastructure and onchain systems.
 ## Core skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,react,nodejs,bun,postgres,python,docker,git,github&perline=10" alt="TypeScript, Rust, React, Node.js, Bun, PostgreSQL, Python, Docker, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,react,nodejs,bun,solana,postgres,python,docker,git&perline=10" alt="TypeScript, Rust, React, Node.js, Bun, Solana, PostgreSQL, Python, Docker and Git" />
 </div>
 
 <p align="center">
-  <code>TypeScript</code> <code>Rust</code> <code>React</code> <code>Node.js</code> <code>Bun</code> <code>Solana</code> <code>PostgreSQL</code> <code>Python</code>
+  <code>TypeScript</code> <code>Rust</code> <code>React</code> <code>Node.js</code> <code>Bun</code> <code>Solana</code> <code>PostgreSQL</code> <code>Python</code> <code>Docker</code> <code>Git</code>
 </p>
 
 ## Selected work
