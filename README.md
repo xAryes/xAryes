@@ -37,12 +37,17 @@ Product engineering across interfaces, data, infrastructure and onchain systems.
 
 ## Core skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,react,nodejs,bun,solana,postgres,python,docker,git&perline=10" alt="TypeScript, Rust, React, Node.js, Bun, Solana, PostgreSQL, Python, Docker and Git" />
-</div>
-
 <p align="center">
-  <code>TypeScript</code> <code>Rust</code> <code>React</code> <code>Node.js</code> <code>Bun</code> <code>Solana</code> <code>PostgreSQL</code> <code>Python</code> <code>Docker</code> <code>Git</code>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=flat-square&amp;logo=bun&amp;logoColor=white" />
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&amp;logo=solana&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
 </p>
 
 ## Selected work
