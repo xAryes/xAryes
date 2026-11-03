@@ -54,11 +54,8 @@ Product engineering across interfaces, data, infrastructure and onchain systems.
 ## Code profile
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xAryes&theme=github_dark">
-  <img alt="Languages used across Arnaud's public GitHub repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xAryes&theme=github">
+  <img width="720" alt="Public code by language: JavaScript 69.4%, TypeScript 19.5%, HTML 6.0%, Rust 3.3%" src="./assets/language-profile.svg">
 </picture>
-
-<sub>Calculated from public repository code. Private and organization work is not included.</sub>
 
 ## Elsewhere
 
