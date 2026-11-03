@@ -37,9 +37,3 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
 </p>
-
-## Code profile
-
-<picture>
-  <img width="720" alt="Public code by language: JavaScript 69.4%, TypeScript 19.5%, HTML 6.0%, Rust 3.3%" src="./assets/language-profile.svg">
-</picture>
